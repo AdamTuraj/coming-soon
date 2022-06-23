@@ -9,7 +9,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
     <>
       <DefaultSeo
         defaultTitle="Adam Turaj - Coming Soon"
-        description="This is the temporary placeholder for a new and improved website."
+        description="Adam Turaj is a frontend developer based in Ottawa, Canada. This will be his personal website."
         additionalMetaTags={[
           {
             name: "keywords",
@@ -25,7 +25,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
           url: "https://adamturaj.com",
           images: [
             {
-              url: "/adamturaj.png",
+              url: "/images/adamturaj.png",
             },
           ],
         }}

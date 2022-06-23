@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <div className="items-center md:items-start md:pt-72 bg-[url('/starbackground.jpeg')] h-screen w-screen bg-cover flex">
+    <div className="items-center md:items-start md:pt-72 bg-[url('/images/starbackground.jpeg')] h-screen w-screen bg-cover flex">
       <div className="flex flex-col gap-8 text-center w-full">
         <h1 className="text-5xl font-normal">
           Something <b className="font-black text-6xl">BIG</b> is being crafted
