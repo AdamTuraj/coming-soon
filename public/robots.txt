@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /images/
+Sitemap: http://adamturaj.com/sitemap.xml
