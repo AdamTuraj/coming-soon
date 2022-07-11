@@ -9,7 +9,7 @@ const NotFound = () => {
           There is nothing here. But there is at the home page!
         </h2>
         <Link href="/" passHref>
-          <a className="py-3 border border-green-500 rounded-md text-xl hover:bg-green-500">
+          <a className="py-3 border transition-colors duration-300 border-green-500 rounded-md text-xl hover:bg-green-500">
             Go Home
           </a>
         </Link>
